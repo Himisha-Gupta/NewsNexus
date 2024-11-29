@@ -21,4 +21,4 @@ This project is a **multi-agent news reporting system** designed to automaticall
 - **`tasks.py`**: Defines tasks assigned to the agents (`research_task` and `write_task`).
 - **`tools.py`**: Contains custom tools used by the agents, such as `SerperDevTool`.
 - **`crew.py`**: Sets up the crew (agents and tools), assigns tasks, and manages workflow.
-- **`.env`**: Stores environment variables like API keys (ensure this file is  not committed)
+- **`.env`**: Stores environment variables like API keys 
